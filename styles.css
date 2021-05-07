@@ -4,13 +4,24 @@ iframe {
 margin: 0 auto;
 }
 
+h1 {
+    	font-family: 'Code Bold', italic;
+	margin-left: 1.66%;
+  font-weight: 800;
+  border-bottom: 2px solid #F1F1F1;
+  width: 30%;
+  padding-bottom: 20px;
 
-.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
+
+    color: black;
+    font-kerning: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 50px;
+    letter-spacing: 0.021em;
+    line-height: 1.2;
 }
+
 
 
 .foot {
