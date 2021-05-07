@@ -5,7 +5,7 @@ margin: 0 auto;
 }
 
 
-h1 img {
+.header img {
   float: left;
   width: 100px;
   height: 100px;
